@@ -1,5 +1,9 @@
 # onlinemusic
 
+## 项目地址
+
+[网易云音乐web](http://preferyou.cn/netease)
+
 ## Project setup
 ```
 yarn install
@@ -20,5 +24,3 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
